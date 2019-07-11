@@ -2,6 +2,7 @@ Santacoin integration/staging tree
 ================================
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2019 Santacoin Developers
 
 What is Santacoin?
