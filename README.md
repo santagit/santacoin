@@ -4,22 +4,13 @@ Santacoin integration/staging tree
 http://www.santacoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Santacoin Developers
+Copyright (c) 2019 Santacoin Developers
 
 What is Santacoin?
 ----------------
 
 Santacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the Santacoin client sofware, see http://www.santacoin.org.
+ - 2 minute block targets
 
 License
 -------
@@ -45,7 +36,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/santacoin-project/santacoin/tags) are created
+completely stable. [Tags](https://github.com/santagit/santacoin/tags) are created
 regularly to indicate new official, stable release versions of Santacoin.
 
 Testing
