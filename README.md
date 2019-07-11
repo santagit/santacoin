@@ -1,8 +1,6 @@
 Santacoin integration/staging tree
 ================================
 
-http://www.santacoin.org
-
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2019 Santacoin Developers
 
